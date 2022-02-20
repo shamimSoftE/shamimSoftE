@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shamimSoftE
+- 👋 Hi, I’m Shamim Hossain
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning laravel & vue 
+<!-- - 🌱 I’m currently learning laravel & vue  -->
 - 📫 How to reach me ...
   On twitter
   https://twitter.com/ShamimH48250653
