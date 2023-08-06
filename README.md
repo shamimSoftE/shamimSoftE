@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming
 <!-- - 🌱 I’m currently learning laravel & vue  -->
 - 📫 How to reach me ...
-  On twitter
-  https://twitter.com/ShamimH48250653
+  On linkedin
+  https://www.linkedin.com/in/shamim-hossain-51118224a/
   On facebook
   https://www.facebook.com/withusbuddy
   On YouTube
